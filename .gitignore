@@ -1,3 +1,14 @@
+.idea
+target/
+mvnw*
+.mvn/
+gmall.iml
+gmall-oms.iml
+gmall-pms.iml
+gmall-sms.iml
+gmall-ums.iml
+gmall-wms.iml
+
 # Compiled class file
 *.class
 
